@@ -5,8 +5,9 @@ Installable desktop apps for la-route, the indoor cycling app.
 - [la-route website](https://la-route.app)
 - [Published downloads](https://github.com/smartinelle/la-route-downloads/releases)
 
-The first public desktop release is being prepared. No public installer is
-available here yet.
+The [Windows beta](https://github.com/smartinelle/la-route-downloads/releases/tag/v0.1.0-beta.1)
+is available. [Download the 64-bit Windows installer](https://github.com/smartinelle/la-route-downloads/releases/download/v0.1.0-beta.1/la-route_0.1.0_x64-setup.exe).
+It is unsigned and hardware acceptance testing is still pending.
 
 This repository hosts installers, checksums and release notes. Application
 source code is maintained separately.
@@ -14,7 +15,7 @@ source code is maintained separately.
 ## Platforms
 
 - **macOS:** Apple Silicon and Intel. A signed and notarized download is being prepared.
-- **Windows:** 64-bit PC. The initial beta will be unsigned. Windows may show an
+- **Windows:** 64-bit PC. The beta is unsigned. Windows may show an
   unknown-publisher or SmartScreen warning, and some security policies may
   prevent installation.
 
